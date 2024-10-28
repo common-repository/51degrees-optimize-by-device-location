@@ -1,0 +1,8 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="Tests">
+      <file>tests/MissingPropertyTests.php</file>
+      <file>tests/index.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
